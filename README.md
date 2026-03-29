@@ -9,15 +9,15 @@ A modern, high-conversion landing page designed for **AimenTech**. This project 
 
 ### 1. Hero Section
 The main introduction area with a clear Call-to-Action.
-![Hero Section](1000143996.jpg)
+![Hero Section](20260329_202121_chrome.jpg)
 
 ### 2. Features Section
 Highlighting core services with a professional glassmorphism effect.
-![Features Section](1000143997.jpg)
+![Features Section](20260329_202128_chrome.jpg)
 
 ### 3. Pricing Section (Bonus)
 A minimalist pricing table for different service tiers.
-![Pricing Section](1000143998.jpg)
+![Pricing Section](20260329_202133_chrome.jpg)
 
 ## ✨ Key Features
 - **Modern UI:** Clean aesthetic with a professional color palette.
